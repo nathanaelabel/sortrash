@@ -26,7 +26,7 @@ Users can **upload an image** of trash, and the system will **classify it** into
 ## 🛠️ Technologies Used  
 - **Deep Learning (CNN Algorithm)**  
 - **Graphical User Interface (GUI)**  
-- **Python (Specify Frameworks/Libraries, e.g., TensorFlow, PyTorch, Tkinter, PyQt, etc.)**  
+- **Python**  
 
 ---
 
