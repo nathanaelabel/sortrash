@@ -1,26 +1,44 @@
-# Sortrash
+# Sortrash  
 
-> Assesment of Learning Performance Artificial Intelligence 2021 - 2022 Genap (Semester 4) Informatika Universitas Ciputra Surabaya.
-
-### 👨‍💻👩‍💻 Tentang Pengembang
-Tim Archotech:
-- 0706012010013 - Nur Azizah
-- 0706012010029 - Nathanael Abel Arianto
-- 0706012010039 - Probo Krishnacahya
-- 0706012010055 - Haning Galih Rani Kumbara
-
-### 🖥️ Tentang Aplikasi
-Sortrash adalah Aplikasi Desktop berbasis Graphical User Interface yang dibuat menggunakan teknologi Deep Learning dengan Algoritma Convolutional Neural Network. Aplikasi tentang Klasifikasi Citra ini difungsikan untuk mendeteksi objek berupa sampah berdasarkan 3 kategori (jenis) sampah, yaitu:
-1. Organik
-2. Anorganik Berbahan Kertas
-3. Anorganik Berbahan Non-Kertas
-
-Sistem pada Sortrash dapat memberikan informasi dalam bentuk hasil (respon) kategori (jenis) sampah sesuai dengan objek sampah yang diunggah dari file yang tersedia di direktori perangkat pengguna.
-
-Tujuan pembuatan Sortrash:
-- [x] Memudahkan masyarakat untuk memilah satuan sampah tunggal yang tidak terkontaminasi dengan kategori (jenis) sampah lainnya dengan langkah praktis agar dapat terarah untuk membuang ke tempat sampah yang tepat.
-- [x] Membantu pihak pengelola sampah dalam melaksanakan manajemen proses penanganan sampah lebih lanjut mengenai sampah-sampah yang telah dibuang di tempat sampah.
+**Desktop image classification application** for **trash sorting**, utilizing **Deep Learning** with a **Convolutional Neural Network (CNN) algorithm**.  
 
 ---
 
-<p align="center"> &copy; 2022 Archotech - Simplify the Trash Sorting </p>
+## 🧑‍💻 Developed for  
+Assessment of Learning Performance – **Artificial Intelligence** (2021/2022, Even Semester) at **Informatics, Universitas Ciputra Surabaya**.  
+
+---
+
+## 📖 About the Project  
+**Sortrash** is a **GUI-based desktop application** that classifies trash into **three categories**:  
+1. **Organic**  
+2. **Paper-based Inorganic**  
+3. **Non-paper-based Inorganic**  
+
+Users can **upload an image** of trash, and the system will **classify it** into the appropriate category. The goal is to **assist waste management** by making trash sorting easier and more efficient.  
+
+### 🎯 Project Objectives  
+- ✅ **Simplify waste sorting** for individuals to ensure proper disposal.  
+- ✅ **Support waste management teams** in handling categorized waste more effectively.  
+
+---
+
+## 🛠️ Technologies Used  
+- **Deep Learning (CNN Algorithm)**  
+- **Graphical User Interface (GUI)**  
+- **Python (Specify Frameworks/Libraries, e.g., TensorFlow, PyTorch, Tkinter, PyQt, etc.)**  
+
+---
+
+## 🚀 Features  
+- **Classifies uploaded trash images** into three categories  
+- **User-friendly desktop application with a GUI**  
+- **Helps streamline waste sorting and disposal**  
+
+---
+
+📌 **Note:** This project was built for academic purposes and is not actively maintained.  
+
+---
+
+<p align="center"> &copy; 2025 Archotech - Simplify the Trash Sorting </p>  
